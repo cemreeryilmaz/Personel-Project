@@ -1,0 +1,447 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Person.WebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Business\\Person.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Business\\Person.Business.csproj",
+        "projectName": "Person.Business",
+        "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Business\\Person.Business.csproj",
+        "packagesPath": "C:\\Users\\Cemre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cemre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Core\\Person.Core.csproj": {
+                "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Core\\Person.Core.csproj"
+              },
+              "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\Person.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\Person.DataAccess.csproj"
+              },
+              "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Entities\\Person.Entities.csproj": {
+                "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Entities\\Person.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Core\\Person.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Core\\Person.Core.csproj",
+        "projectName": "Person.Core",
+        "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Core\\Person.Core.csproj",
+        "packagesPath": "C:\\Users\\Cemre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cemre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\Person.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\Person.DataAccess.csproj",
+        "projectName": "Person.DataAccess",
+        "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\Person.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Cemre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cemre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Core\\Person.Core.csproj": {
+                "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Core\\Person.Core.csproj"
+              },
+              "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Entities\\Person.Entities.csproj": {
+                "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Entities\\Person.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Entities\\Person.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Entities\\Person.Entities.csproj",
+        "projectName": "Person.Entities",
+        "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Entities\\Person.Entities.csproj",
+        "packagesPath": "C:\\Users\\Cemre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cemre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Core\\Person.Core.csproj": {
+                "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Core\\Person.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Person.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Person.WebUI.csproj",
+        "projectName": "Person.WebUI",
+        "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Person.WebUI.csproj",
+        "packagesPath": "C:\\Users\\Cemre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cemre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Business\\Person.Business.csproj": {
+                "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Business\\Person.Business.csproj"
+              },
+              "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Entities\\Person.Entities.csproj": {
+                "projectPath": "C:\\Users\\Cemre\\OneDrive\\Masaüstü\\GuncelPersonProjec\\PersonProject\\Person.Entities\\Person.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+﻿@model List<Personel>
+
+<div class="row">
+    <div class="col-md-12">
+        <h1 class="h3">Üniversite</h1>
+        <hr />
+        <table class="table table-bordered mt-3">
+            <thead>
+                <tr>
+                    <td>Id</td>
+                    <td>Name</td>
+                    <td>SurName</td>
+                    <td>Gender</td>
+                    <td>Debit</td>
+                    <td>Graduation</td>
+                    <td>StartDate</td>
+                    <td>EndDate</td>
+                </tr>
+            </thead>
+            <tbody>
+
+                @if (Model.Count > 0)
+                {
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.Name</td>
+                            <td>@item.SurName</td>
+                            <td>@item.Gender</td>
+                            <td>@item.Debit</td>
+                            <td>@item.Graduation</td>
+                            <td>@item.StartDate</td>
+                            <td>@item.EndDate</td>
+                           
+                            <td>
+@* 
+
+                                <form method="post" style="display:inline;">
+                                    <button type="submit" asp-controller="Pegasus" asp-action="GetVehicle" asp-route-Id="@item.Id" asp-route-islem="EFATUR" class="btn btn-primary btn-sm">Kabul Et</button>
+                                    <button type="submit" asp-controller="Pegasus" asp-action="GetVehicle" asp-route-Id="@item.Id" asp-route-islem="PGS" class="btn btn-danger btn-sm"> Reddet </button>
+                                </form>
+ *@
+
+                        </tr>
+                    }
+                }
+
+                else
+                {
+                    <div class="alert alert-danger">
+                        Veri Yok..!
+                    </div>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

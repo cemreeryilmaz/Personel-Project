@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{127E2223-AB06-4C60-94B3-4078C400E6BD}|Person.WebUI\\Person.WebUI.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.webui\\views\\personel\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{127E2223-AB06-4C60-94B3-4078C400E6BD}|Person.WebUI\\Person.WebUI.csproj|solutionrelative:person.webui\\views\\personel\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127E2223-AB06-4C60-94B3-4078C400E6BD}|Person.WebUI\\Person.WebUI.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.webui\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127E2223-AB06-4C60-94B3-4078C400E6BD}|Person.WebUI\\Person.WebUI.csproj|solutionrelative:person.webui\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127E2223-AB06-4C60-94B3-4078C400E6BD}|Person.WebUI\\Person.WebUI.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.webui\\views\\personel\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{127E2223-AB06-4C60-94B3-4078C400E6BD}|Person.WebUI\\Person.WebUI.csproj|solutionrelative:person.webui\\views\\personel\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127E2223-AB06-4C60-94B3-4078C400E6BD}|Person.WebUI\\Person.WebUI.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.webui\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{127E2223-AB06-4C60-94B3-4078C400E6BD}|Person.WebUI\\Person.WebUI.csproj|solutionrelative:person.webui\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED45E0-390C-4A73-B4BB-922A19BC3FC4}|Person.Entities\\Person.Entities.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.entities\\concrete\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ED45E0-390C-4A73-B4BB-922A19BC3FC4}|Person.Entities\\Person.Entities.csproj|solutionrelative:person.entities\\concrete\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1546E7-A72B-4ADE-B0D9-A014D7672631}|Person.DataAccess\\Person.DataAccess.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.dataaccess\\concrete\\entityframework\\efpersoneldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1546E7-A72B-4ADE-B0D9-A014D7672631}|Person.DataAccess\\Person.DataAccess.csproj|solutionrelative:person.dataaccess\\concrete\\entityframework\\efpersoneldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1546E7-A72B-4ADE-B0D9-A014D7672631}|Person.DataAccess\\Person.DataAccess.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.dataaccess\\concrete\\entityframework\\context\\personelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1546E7-A72B-4ADE-B0D9-A014D7672631}|Person.DataAccess\\Person.DataAccess.csproj|solutionrelative:person.dataaccess\\concrete\\entityframework\\context\\personelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE1546E7-A72B-4ADE-B0D9-A014D7672631}|Person.DataAccess\\Person.DataAccess.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.dataaccess\\abstract\\ipersoneldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE1546E7-A72B-4ADE-B0D9-A014D7672631}|Person.DataAccess\\Person.DataAccess.csproj|solutionrelative:person.dataaccess\\abstract\\ipersoneldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\utilities\\results\\concrete\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\utilities\\results\\concrete\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\utilities\\results\\concrete\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\utilities\\results\\concrete\\successdataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\utilities\\results\\concrete\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\utilities\\results\\concrete\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\utilities\\results\\concrete\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\utilities\\results\\concrete\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\utilities\\results\\concrete\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\utilities\\results\\concrete\\errordataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\utilities\\results\\concrete\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\utilities\\results\\concrete\\dataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\utilities\\results\\abstract\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\utilities\\results\\abstract\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\utilities\\results\\abstract\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\utilities\\results\\abstract\\idataresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\utilities\\business\\businessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\dataaccess\\entityframework\\concrete\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\dataaccess\\entityframework\\concrete\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.core\\dataaccess\\entityframework\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E1A79-5C0C-45EA-A774-2EDF5337DCFB}|Person.Core\\Person.Core.csproj|solutionrelative:person.core\\dataaccess\\entityframework\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE7FDC-2B22-4125-A006-7B6711203C72}|Person.Business\\Person.Business.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.business\\validation\\fluentvalidation\\personelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE7FDC-2B22-4125-A006-7B6711203C72}|Person.Business\\Person.Business.csproj|solutionrelative:person.business\\validation\\fluentvalidation\\personelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE7FDC-2B22-4125-A006-7B6711203C72}|Person.Business\\Person.Business.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.business\\dependencyresolvers\\autofac\\methodinterceptionbaseattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE7FDC-2B22-4125-A006-7B6711203C72}|Person.Business\\Person.Business.csproj|solutionrelative:person.business\\dependencyresolvers\\autofac\\methodinterceptionbaseattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE7FDC-2B22-4125-A006-7B6711203C72}|Person.Business\\Person.Business.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.business\\dependencyresolvers\\autofac\\autofacbussinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE7FDC-2B22-4125-A006-7B6711203C72}|Person.Business\\Person.Business.csproj|solutionrelative:person.business\\dependencyresolvers\\autofac\\autofacbussinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE7FDC-2B22-4125-A006-7B6711203C72}|Person.Business\\Person.Business.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.business\\concrete\\personelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE7FDC-2B22-4125-A006-7B6711203C72}|Person.Business\\Person.Business.csproj|solutionrelative:person.business\\concrete\\personelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE7FDC-2B22-4125-A006-7B6711203C72}|Person.Business\\Person.Business.csproj|c:\\users\\cemre\\onedrive\\masa\u00FCst\u00FC\\guncelpersonprojec\\personproject\\person.business\\abstract\\ipersonelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE7FDC-2B22-4125-A006-7B6711203C72}|Person.Business\\Person.Business.csproj|solutionrelative:person.business\\abstract\\ipersonelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Views\\Personel\\Update.cshtml",
+              "RelativeDocumentMoniker": "Person.WebUI\\Views\\Personel\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Views\\Personel\\Update.cshtml",
+              "RelativeToolTip": "Person.WebUI\\Views\\Personel\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T09:48:51.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Views\\Personel\\Add.cshtml",
+              "RelativeDocumentMoniker": "Person.WebUI\\Views\\Personel\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Views\\Personel\\Add.cshtml",
+              "RelativeToolTip": "Person.WebUI\\Views\\Personel\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T09:48:20.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Views\\Personel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Person.WebUI\\Views\\Personel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Views\\Personel\\Index.cshtml",
+              "RelativeToolTip": "Person.WebUI\\Views\\Personel\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T09:48:12.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonelController.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Controllers\\PersonelController.cs",
+              "RelativeDocumentMoniker": "Person.WebUI\\Controllers\\PersonelController.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.WebUI\\Controllers\\PersonelController.cs",
+              "RelativeToolTip": "Person.WebUI\\Controllers\\PersonelController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwEoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:47:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Entities\\Concrete\\Personel.cs",
+              "RelativeDocumentMoniker": "Person.Entities\\Concrete\\Personel.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Entities\\Concrete\\Personel.cs",
+              "RelativeToolTip": "Person.Entities\\Concrete\\Personel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:47:17.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfPersonelDal.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\Concrete\\EntityFramework\\EfPersonelDal.cs",
+              "RelativeDocumentMoniker": "Person.DataAccess\\Concrete\\EntityFramework\\EfPersonelDal.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\Concrete\\EntityFramework\\EfPersonelDal.cs",
+              "RelativeToolTip": "Person.DataAccess\\Concrete\\EntityFramework\\EfPersonelDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:47:12.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonelContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\Concrete\\EntityFramework\\Context\\PersonelContext.cs",
+              "RelativeDocumentMoniker": "Person.DataAccess\\Concrete\\EntityFramework\\Context\\PersonelContext.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\Concrete\\EntityFramework\\Context\\PersonelContext.cs",
+              "RelativeToolTip": "Person.DataAccess\\Concrete\\EntityFramework\\Context\\PersonelContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:47:09.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPersonelDal.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\Abstract\\IPersonelDal.cs",
+              "RelativeDocumentMoniker": "Person.DataAccess\\Abstract\\IPersonelDal.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.DataAccess\\Abstract\\IPersonelDal.cs",
+              "RelativeToolTip": "Person.DataAccess\\Abstract\\IPersonelDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:47:04.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SuccessResult.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\SuccessResult.cs",
+              "RelativeDocumentMoniker": "Person.Core\\Utilities\\Results\\Concrete\\SuccessResult.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\SuccessResult.cs",
+              "RelativeToolTip": "Person.Core\\Utilities\\Results\\Concrete\\SuccessResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:57.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SuccessDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\SuccessDataResult.cs",
+              "RelativeDocumentMoniker": "Person.Core\\Utilities\\Results\\Concrete\\SuccessDataResult.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\SuccessDataResult.cs",
+              "RelativeToolTip": "Person.Core\\Utilities\\Results\\Concrete\\SuccessDataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\Result.cs",
+              "RelativeDocumentMoniker": "Person.Core\\Utilities\\Results\\Concrete\\Result.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\Result.cs",
+              "RelativeToolTip": "Person.Core\\Utilities\\Results\\Concrete\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:53.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorResult.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\ErrorResult.cs",
+              "RelativeDocumentMoniker": "Person.Core\\Utilities\\Results\\Concrete\\ErrorResult.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\ErrorResult.cs",
+              "RelativeToolTip": "Person.Core\\Utilities\\Results\\Concrete\\ErrorResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:52.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\ErrorDataResult.cs",
+              "RelativeDocumentMoniker": "Person.Core\\Utilities\\Results\\Concrete\\ErrorDataResult.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\ErrorDataResult.cs",
+              "RelativeToolTip": "Person.Core\\Utilities\\Results\\Concrete\\ErrorDataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:51.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataResult.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\DataResult.cs",
+              "RelativeDocumentMoniker": "Person.Core\\Utilities\\Results\\Concrete\\DataResult.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Concrete\\DataResult.cs",
+              "RelativeToolTip": "Person.Core\\Utilities\\Results\\Concrete\\DataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:50.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IResult.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Abstract\\IResult.cs",
+              "RelativeDocumentMoniker": "Person.Core\\Utilities\\Results\\Abstract\\IResult.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Abstract\\IResult.cs",
+              "RelativeToolTip": "Person.Core\\Utilities\\Results\\Abstract\\IResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:47.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDataResult.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
+              "RelativeDocumentMoniker": "Person.Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
+              "RelativeToolTip": "Person.Core\\Utilities\\Results\\Abstract\\IDataResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:44.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BusinessRules.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Business\\BusinessRules.cs",
+              "RelativeDocumentMoniker": "Person.Core\\Utilities\\Business\\BusinessRules.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Utilities\\Business\\BusinessRules.cs",
+              "RelativeToolTip": "Person.Core\\Utilities\\Business\\BusinessRules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:40.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Entities\\Abstract\\IEntity.cs",
+              "RelativeDocumentMoniker": "Person.Core\\Entities\\Abstract\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\Entities\\Abstract\\IEntity.cs",
+              "RelativeToolTip": "Person.Core\\Entities\\Abstract\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:37.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\DataAccess\\EntityFramework\\Concrete\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Person.Core\\DataAccess\\EntityFramework\\Concrete\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\DataAccess\\EntityFramework\\Concrete\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Person.Core\\DataAccess\\EntityFramework\\Concrete\\EfEntityRepositoryBase.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:33.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\DataAccess\\EntityFramework\\Abstract\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Person.Core\\DataAccess\\EntityFramework\\Abstract\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Core\\DataAccess\\EntityFramework\\Abstract\\IEntityRepository.cs",
+              "RelativeToolTip": "Person.Core\\DataAccess\\EntityFramework\\Abstract\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:30.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Business\\Validation\\FluentValidation\\PersonelValidator.cs",
+              "RelativeDocumentMoniker": "Person.Business\\Validation\\FluentValidation\\PersonelValidator.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Business\\Validation\\FluentValidation\\PersonelValidator.cs",
+              "RelativeToolTip": "Person.Business\\Validation\\FluentValidation\\PersonelValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:23.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MethodInterceptionBaseAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Business\\DependencyResolvers\\Autofac\\MethodInterceptionBaseAttribute.cs",
+              "RelativeDocumentMoniker": "Person.Business\\DependencyResolvers\\Autofac\\MethodInterceptionBaseAttribute.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Business\\DependencyResolvers\\Autofac\\MethodInterceptionBaseAttribute.cs",
+              "RelativeToolTip": "Person.Business\\DependencyResolvers\\Autofac\\MethodInterceptionBaseAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:16.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AutofacBussinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Business\\DependencyResolvers\\Autofac\\AutofacBussinessModule.cs",
+              "RelativeDocumentMoniker": "Person.Business\\DependencyResolvers\\Autofac\\AutofacBussinessModule.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Business\\DependencyResolvers\\Autofac\\AutofacBussinessModule.cs",
+              "RelativeToolTip": "Person.Business\\DependencyResolvers\\Autofac\\AutofacBussinessModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:14.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PersonelManager.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Business\\Concrete\\PersonelManager.cs",
+              "RelativeDocumentMoniker": "Person.Business\\Concrete\\PersonelManager.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Business\\Concrete\\PersonelManager.cs",
+              "RelativeToolTip": "Person.Business\\Concrete\\PersonelManager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:08.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPersonelService.cs",
+              "DocumentMoniker": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Business\\Abstract\\IPersonelService.cs",
+              "RelativeDocumentMoniker": "Person.Business\\Abstract\\IPersonelService.cs",
+              "ToolTip": "C:\\Users\\Cemre\\OneDrive\\Masa\u00FCst\u00FC\\GuncelPersonProjec\\PersonProject\\Person.Business\\Abstract\\IPersonelService.cs",
+              "RelativeToolTip": "Person.Business\\Abstract\\IPersonelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:46:05.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

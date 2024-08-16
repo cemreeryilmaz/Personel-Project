@@ -1,0 +1,82 @@
+﻿@model PersonelListViewModel
+
+<div class="row">
+    <div class="col-12">
+
+        <a asp-controller="Personel" asp-action="Add" class="btn btn-primary" style="margin-bottom: 10px;margin-top:10px;">Yeni Personel Ekle</a>
+        <div class="card">
+
+            <div class="card-header">
+                <h3 class="card-title">Personel Listesi</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <table id="example2" class="table table-bordered table-hover text-center">
+                    <thead>
+                        <tr>
+                            <th>Ad</th>
+                            <th>Soyad</th>
+                            <th>Cinsiyet</th>
+                            <th>Zimmet Durumu</th>
+                            <th>Mezun Olduğu Okul</th>
+                            <th>İşe Başlangıç Tarihi</th>
+                            <th>İşlemler</th>
+
+                        </tr>
+                    </thead>
+                    <tbody >
+                        @foreach (var personel in Model.Personels.Data)
+                        {
+                            <tr>
+                                <td>@personel.Name</td>
+                                <td>@personel.SurName</td>
+                                <td>
+                                    @if (personel.Gender)
+                                    {
+                                        <span>
+                                            <i class="fa-solid fa-mars"></i>Erkek
+                                        </span>
+                                        
+                                    }
+                                    else
+                                    {
+                                        <span>
+                                            <i class="fa-solid fa-venus"></i>Kadın
+                                        </span>
+                                    }
+
+                                </td>
+                                <td >
+                                    @if (personel.Debit)
+                                    {
+                                        <i class="fas fa-check-circle"></i>
+                                    }
+                                    else
+                                    {
+                                        <i class="fas fa-times-circle"></i>
+                                    }
+                                </td>
+                                <td>@personel.Graduation</td>
+                                <td>@personel.StartDate</td>
+                                <td>
+                                    <a asp-controller="Personel" asp-action="Update" asp-route-personelId="@personel.Id" asp-for="@personel.Id" value="Update" class="btn btn-warning btn-sm">Güncelle</a>
+
+                                    <a asp-controller="Personel" asp-action="Delete" asp-route-personelId="@personel.Id" class="btn btn-danger btn-sm">Sil</a>
+
+                                    <input type="hidden" name="personelId" value="@personel.Id" />
+                                </td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+
+                </table>
+
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+    </div>
+    <!-- /.col -->
+</div>
